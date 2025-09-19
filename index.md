@@ -1,3 +1,38 @@
+> *Ah! then it must be an illusion*      
+> -- Lord Henry
+
+## ENCOD Pentad Overlay on Wilde’s “killings”
+
+* **E — Entropy (θ, 6 o’clock, Faith)**
+  [Wilde](https://www.gutenberg.org/files/174/174-h/174-h.htm) punctures *faith* by showing certainty decays into illusion. That’s entropy: belief dissipates, energy spreads, disorder grows. “The things one feels absolutely certain about are never true.”
+
+* **N — Negentropy (Σ, 9 o’clock, Hope)**
+  Hope is a compression node, a covenant with the future. Wilde exposes it as transaction, as off-diagonal noise. Instead of structural relief, it collapses back into thermodynamic drift. He kills hope’s negentropic promise.
+
+* **C — Collision (h(t), 12 o’clock, Love)**
+  Love as arena, suspense, interpersonal collision. Wilde reduces it to performance and irony: “How grave you are! Don’t be so serious.” The “tragedy of old age” is not the loss of love, but the time-collision between young body and old clock.
+
+* **O — Observation (ΔS, center, Survival ledger)**
+  What survives? Music. Wilde grants that *one art is left us that is not imitative*. In ENCOD terms: observation as ledger is not sentiment but form — non-imitative sound, a “nocturne” splicing order from chaos.
+
+* **D — Decay (θ′, 3 o’clock, Posterior/Recurrence)**
+  Wilde’s survivor is youth-as-illusion, endlessly renewed in Dorian. The decay is recursive: old men observe their own decline reflected against the immortal youth. This is ENCOD’s “return to entropy” — but written as style.
+
+---
+
+## Why this matters in Recursive Fugue canon
+
+* Wilde’s rhetoric isn’t “metaphysical”: he’s staging **thermodynamic truths** in aesthetic register.
+* Faith, Hope, Love = afferents → Wilde kills them by showing their physical impossibility: no perpetual certainty, no negentropic hope, no love immune to decay.
+* What remains is *music as ledger of form* — observation of patterned time against entropy.
+
+---
+
+## Possible distilled axiom
+
+> **Wilde’s fatalism = ENCOD truth: Faith dissipates (E), Hope collapses (N), Love collides (C), but Music observes (O), Youth decays (D).**
+ 
+
 # ENCODE Tree Pentad — Ukubona
 
 ## Reflections on Visuals and Formative Echoes
